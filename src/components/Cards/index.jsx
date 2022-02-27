@@ -21,7 +21,7 @@ export function Card({ icon, children, ...props }) {
         flex="1 1 0%"
       >
         <Heading as="h3" color="gray.400" size="sm" pb={1}>
-          Today's Money
+          Todays Money
         </Heading>
         <Flex alignItems="center">
           <Heading as="h3" color="gray.700" size="md">
